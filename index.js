@@ -14,5 +14,5 @@ function sayHiToGrandma(string) {
   var = "I can't hear you!"
   var = "YES INDEED!"
   var = "I love you, too."
-  return 
+  if(string)
 }
